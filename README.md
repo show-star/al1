@@ -1,9 +1,5 @@
 # Big Data Practical 1: Spark Optimization (Data Skew and Shuffle Bottlenecks)
 
-**Name:** Arvind Yadav
-**Roll no:** 31011123065
-**Class:** LYCS
-
 ## Aim
 
 Implement a Spark job and use the Spark UI to identify and fix data skew and "shuffle" bottlenecks.
